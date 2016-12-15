@@ -1,0 +1,8 @@
+E:\代码\vs\BNAC\BNAC\bin\Debug\BNAC.exe
+E:\代码\vs\BNAC\BNAC\bin\Debug\BNAC.pdb
+E:\代码\vs\BNAC\BNAC\obj\x86\Debug\BNAC.csprojResolveAssemblyReference.cache
+E:\代码\vs\BNAC\BNAC\obj\x86\Debug\BNAC.Form1.resources
+E:\代码\vs\BNAC\BNAC\obj\x86\Debug\BNAC.Properties.Resources.resources
+E:\代码\vs\BNAC\BNAC\obj\x86\Debug\BNAC.csproj.GenerateResource.Cache
+E:\代码\vs\BNAC\BNAC\obj\x86\Debug\BNAC.exe
+E:\代码\vs\BNAC\BNAC\obj\x86\Debug\BNAC.pdb

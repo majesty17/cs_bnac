@@ -1,0 +1,9 @@
+E:\代码\vs\BNAC\BNAC\bin\Release\BNAC.exe
+E:\代码\vs\BNAC\BNAC\bin\Release\BNAC.pdb
+E:\代码\vs\BNAC\BNAC\obj\x86\Release\BNAC.Form1.resources
+E:\代码\vs\BNAC\BNAC\obj\x86\Release\BNAC.Properties.Resources.resources
+E:\代码\vs\BNAC\BNAC\obj\x86\Release\BNAC.csproj.GenerateResource.Cache
+E:\代码\vs\BNAC\BNAC\obj\x86\Release\BNAC.exe
+E:\代码\vs\BNAC\BNAC\obj\x86\Release\BNAC.pdb
+E:\git\cs_bnac\BNAC\obj\x86\Release\BNAC.exe
+E:\git\cs_bnac\BNAC\obj\x86\Release\BNAC.pdb
